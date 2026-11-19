@@ -4,6 +4,9 @@ Notable changes to this repository. Format follows [Keep a Changelog](https://ke
 
 ## Unreleased
 
+### Fixed
+- Link preview image replaced. The old one showed a headline and figures that are no longer on the site; the new one shows only the name and the address.
+
 ### Added
 - One header on every page: a single 56px row with the name and three links ("Case studies", "Résumé", "Contact"). It marks the section you are in and fits a 320px phone without a menu button.
 - A next step at the end of every page. Each case study ends with a link to the next one in a fixed order of six, plus "Previous", "All case studies" and "Email". The last case study leads to the résumé, and the résumé ends with an Email button.
